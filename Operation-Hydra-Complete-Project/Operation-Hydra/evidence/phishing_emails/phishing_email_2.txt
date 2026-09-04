@@ -1,0 +1,8 @@
+SIMULATED PHISHING EMAIL — EDUCATIONAL USE ONLY
+
+From: Support <support@billing-notice.invalid>
+Subject: Payment Failed - Action Required
+
+Your payment could not be processed. Review your account details using the official website directly rather than clicking email links.
+
+Simulated suspicious link: hxxps://billing-update.example.invalid

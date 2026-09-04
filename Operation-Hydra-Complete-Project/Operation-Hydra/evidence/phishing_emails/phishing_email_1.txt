@@ -1,0 +1,18 @@
+SIMULATED PHISHING EMAIL — EDUCATIONAL USE ONLY
+
+From: Security Team <security@sample-bank.invalid>
+To: victim@example.invalid
+Subject: Urgent: Verify your account
+
+Dear Customer,
+
+We detected unusual activity. Please verify your account immediately to avoid temporary restrictions.
+
+Verification reference: hxxps://secure-check.example.invalid/login
+
+Attachment referenced: Account_Verification.pdf.exe (NOT INCLUDED)
+
+Red flags:
+- urgency
+- unfamiliar verification domain
+- executable disguised with a document-like name

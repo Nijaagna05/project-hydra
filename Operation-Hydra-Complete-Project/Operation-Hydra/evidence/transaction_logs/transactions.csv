@@ -1,0 +1,5 @@
+timestamp,transaction_id,source_account,destination_account,amount_inr,status,notes
+2026-08-20T10:15:00,TXN001,VICTIM_SIM_01,MULE_SIM_A,25000,completed,simulated unauthorized transfer
+2026-08-20T10:22:00,TXN002,MULE_SIM_A,MULE_SIM_B,24500,completed,simulated layering
+2026-08-20T11:05:00,TXN003,MULE_SIM_B,EXCHANGE_SIM_C,24000,completed,simulated conversion endpoint
+2026-08-21T09:30:00,TXN004,VICTIM_SIM_02,MULE_SIM_A,18000,completed,simulated unauthorized transfer

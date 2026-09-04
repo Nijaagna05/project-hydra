@@ -1,0 +1,9 @@
+SIMULATED PHISHING EMAIL — EDUCATIONAL USE ONLY
+
+From: HR Desk <hr@company-notice.invalid>
+Subject: Updated Salary Document
+
+A document is available for review.
+
+Simulated attachment name: Salary_Update.zip
+No attachment is included in this repository.

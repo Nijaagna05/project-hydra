@@ -1,0 +1,12 @@
+SIMULATED EMAIL HEADER
+
+Return-Path: <bounce@sample-bank.invalid>
+From: Security Team <security@sample-bank.invalid>
+Reply-To: helpdesk@unrelated.invalid
+Received: from mail.example.invalid (192.0.2.44)
+Authentication-Results:
+    spf=fail
+    dkim=none
+    dmarc=fail
+
+Analysis note: 192.0.2.0/24 is reserved for documentation and is not a real attack source.
